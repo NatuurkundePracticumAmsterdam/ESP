@@ -1,0 +1,18 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+  - file: Introduction
+  - file: Measuring_systems
+  - file: DC_circuits
+  - file: AC_circuits
+  - file: Diodes
+  - file: OpAmp_circuits
+  - file: Control_systems
+  - file: Modulation_and_demodulation
+  - file: Appendix-components
+  - file: Appendix-KL
+  - file: appendix-decibel_notation
+  - file: Appendix-complex_numbers
