@@ -1,7 +1,7 @@
 (Introduction)=
 # Introduction
 
-## Corona measures
+## Corona measures test
 We find it important that everyone feels safe and comfortable studying on campus. If you experience any symptoms (coughing, sneezing, a sore throat, congestion or a runny nose) please take a self-test and if you are positive stay at home. If you need to stay at home please inform [Gerrit Kuik](mailto:g.j.kuik@vu.nl). 
 
 ## Objective
