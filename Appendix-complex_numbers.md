@@ -25,7 +25,7 @@ $$ (eq3)
 
 In fact a complex number has two coordinates and can be graphically displayed as a point in a plane, the complex plane. This rectangular or the Cartesian coordinates are plotted along the real and the imaginary axis (see {numref}`fig:D1`). 
 
-```{figure} /Fig-app/figureD1.png
+```{figure} /Fig-app/figD1.png
 ---
 width: 400px
 name: fig:D1
