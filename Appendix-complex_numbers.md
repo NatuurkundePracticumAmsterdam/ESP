@@ -23,12 +23,12 @@ $$
 z = ({\rm Re} \, z,\, {\rm Im} \, z) = (x,\, y).
 $$ (eq3)
 
-In fact a complex number has two coordinates and can be graphically displayed as a point in a plane, the complex plane. This rectangular or the Cartesian coordinates are plotted along the real and the imaginary axis (see {numref}`fig:D1`). 
+In fact a complex number has two coordinates and can be graphically displayed as a point in a plane, the complex plane. This rectangular or the Cartesian coordinates are plotted along the real and the imaginary axis (see {numref}`fig-D1`). 
 
-```{figure} /Fig-app/FigD1.png
+```{figure} /Fig-app/FigureD1.png
 ---
 width: 400px
-name: fig:FigD1
+name: fig-FigD1
 ---
 Complex plane
 ```
