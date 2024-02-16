@@ -1215,7 +1215,7 @@ name: fig-Lexercise
 
 ```
 - Design and build an integrator with a time constant of 0.01 s.
-- Verify experimentally whether the integration constant corresponds with the theoretically expected value by using $v_{out}$ and $V_{in}$ displayed as oscilloscope traces and rewriting eqn. (6.5).
+- Verify experimentally whether the integration constant corresponds with the theoretically expected value by using $v_{out}$ and $V_{in}$ displayed as oscilloscope traces and rewriting eqn. {eq}`eq:Vout3`.
 - Investigate and explain the drift of the integrator output. Why is it useful to use a square wave input signal in this investigation?
 - Reduce the drift by  application of a bypass resistor $R_{\rm C}$ and justify your choice of the resistance value.
 - Examine the frequency behavior of the circuit ($A ( \omega )$, $| A ( \omega ) |$, asymtotic behavior) and enter the results of Multisim and NI Elvis in a Bode plot for 3 different $R_C$ values ($100 \Omega, 500 \Omega, 1500 \Omega$).
