@@ -243,7 +243,7 @@ align: right
 ::::{admonition} Answer
 :class: dropdown
 
-When the sinusoidal voltage increases to the $V_{\rm turn \; on}$ value of 0.7 V the voltage gets clamped to that value until the sinusoidal voltage drops below 0.7 V. Then the diodes gets a (near) zero resistance and the sinusoidal voltage is divided across the 5 k$\Omega$ (1/3) and 10 k$\Omega$ resistor. Hence the negative part of the sinusoidal voltage $V_0$ reaches $-8 \cdot \frac{2}{3} = -5.3$ V. 
+When the sinusoidal voltage increases to the $V_{\rm turn \; on}$ value of 0.7 V the voltage gets clamped to that value until the sinusoidal voltage drops below 0.7 V. Then the diodes gets a (near) infinite resistance and the sinusoidal voltage is divided across the 5 k$\Omega$ (1/3) and 10 k$\Omega$ resistor. Hence the negative part of the sinusoidal voltage $V_0$ reaches $-8 \cdot \frac{2}{3} = -5.3$ V. 
 
 ```{figure} /Fig-sol/52.png
 ---
