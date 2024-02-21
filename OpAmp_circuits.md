@@ -671,7 +671,7 @@ The output voltage is proportional to the potential difference between both inpu
 
 ### Instrumentation amplifier
 The differential amplifier of {numref}`fig:oa17` has the disadvantage of a relatively low input impedance. For the $-$ input $Z_{\rm in} = R_1$ and for the $+$ input $Z_{\rm in} = R_1 + R_2$. \
-Another disadvantage is the relative low CMRR as a result of the tolerances of the resistors used. For the differential amplifier the output voltage is given eqn.(\ref{eq:Vdiff}). Only the difference between $V_1$ and $V_2$ is amplified. A common component in both $V_1$ and $V_2$ does not contribute to $V_{\rm out}$. The CMRR should therefore be infinite. However, in the derivation of eqn. {eq}`eq:Vdiff` it is assumed that the two resistors $R_1$ are identical and that the same holds for the two resistors $R_2$. In practice, this is never exactly the case. When the tolerances of the resistors are $\varepsilon \cdot 100$\%, then it can be shown that:
+Another disadvantage is the relative low CMRR as a result of the tolerances of the resistors used. For the differential amplifier the output voltage is given eqn. {eq}`eq:Vdiff`. Only the difference between $V_1$ and $V_2$ is amplified. A common component in both $V_1$ and $V_2$ does not contribute to $V_{\rm out}$. The CMRR should therefore be infinite. However, in the derivation of eqn. {eq}`eq:Vdiff` it is assumed that the two resistors $R_1$ are identical and that the same holds for the two resistors $R_2$. In practice, this is never exactly the case. When the tolerances of the resistors are $\varepsilon \cdot 100$\%, then it can be shown that:
 
 $$
 {\rm CMRR} \geq \frac{1 + R_2/R_1}{4 \varepsilon}.
