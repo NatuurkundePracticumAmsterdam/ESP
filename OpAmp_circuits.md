@@ -291,7 +291,7 @@ $$ (eq:ch6-6)
 Since $UGB = G \cdot BW$ the bandwidth is given by
 
 $$
-BW = \frac{UGB}{G} = \frac{10^7 \; {\rm Hz}}{50} = 2 \cdot 10^5 \geq 10^5 \; {\rm Hz}.
+BW = \frac{UGB}{G} = \frac{10^7 \; {\rm Hz}}{50} = 2 \cdot 10^5 > 10^5 \; {\rm Hz}.
 $$ (eq:ch6-7)
 
 Using two amplifiers with lower $G$ is better as at lower $G$ the bandwidth is larger (the BW at $\sqrt{G}$ is larger than at $G$). 
