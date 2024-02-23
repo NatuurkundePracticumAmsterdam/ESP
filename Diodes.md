@@ -387,7 +387,7 @@ name: fig-Lexercise
 ---
 
 ```
-- Build  using the circuit of exercise 5.4 a Zener stabilized voltage supply of 6.8 V. See {numref}`fig:diode08` and {numref}`fig:diode13`.
+- Build  using the circuit of exercise 5.4 (remove the 1 k$\Omega$ resistor in the transformer circuit) a Zener stabilized voltage supply of 6.8 V. See {numref}`fig:diode08` and {numref}`fig:diode13`.
 - Examine how the output voltage depends on the load and explain your findings.
 ```{figure} /Fig-ch5/Diod13.png
 ---
