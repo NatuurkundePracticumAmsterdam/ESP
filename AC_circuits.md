@@ -171,7 +171,7 @@ The product $RC$, which has the dimension of time, is known as the $RC$ time of 
 The phase difference between output and input signal is given by:
 
 $$
-\varphi = \tan^{-1} - \tan^{-1}  \dfrac{\omega R C}{1} = - \tan^{-1} (\omega R C).
+\varphi = \tan^{-1} \dfrac{0}{1} - \tan^{-1}  \dfrac{\omega R C}{1} = - \tan^{-1} (\omega R C).
 $$ (eq:AC14)
 
 For $\omega = \omega_{3 \, {\rm dB}}$  $\tan \varphi=-1 \Rightarrow \varphi=-45^{o} $. 
