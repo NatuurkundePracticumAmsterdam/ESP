@@ -373,7 +373,7 @@ name: fig-Lexercise
 ```
 - Build a wave rectifier, as shown in {numref}`fig:diode12`. Use a 12 V transformer as an AC source (black box to be connected to the mains) with a 1 k$\Omega$ resistor in series. This is needed as the ADC of the NI Elvis II system can only take signals between $\pm$ 10 V. Make sure not to ground the part of the circuit with the transformer! Study first a circuit without a capacitor.
 - Include a capacitor and study how the size of the ripple $V_{\rm pp}$ depends on $R_{\rm L}$ and $C$, and show this dependency in a graph (first choose a $C$ - should it be low or high? - and vary $R_{\rm L}$). \
-Please note that the 1 k$\Omega$ resistor in the transformer circuit affects the value of $V_{max}$: it will not remain constant. When you do measurements with NI Elvis the oscilloscope will give you $V_{pp}$ and $V_{rms}$. Since $V_{max} = \sqrt{2} \cdot V_{rms}$ you can calculate $V_{max}$. Plot $V_{pp} / V_{max}$ vs $R_L$ and use a fit to check whether eqn. {eq}`eq:Diode07` holds
+Please note that the 1 k$\Omega$ resistor in the transformer circuit affects the value of $V_{max}$: it will not remain constant. When you do measurements with NI Elvis the oscilloscope will give you $V_{pp}$ and $V_{rms}$. Since $V_{max} = \sqrt{2} \cdot V_{rms}$ you can calculate $V_{max}$. Plot $V_{pp} / V_{max}$ vs $R_L$ and use a fit to check whether eqn. {eq}`eq:Diod07` holds
 ````
 
 ````{admonition} Exercise 5.5
