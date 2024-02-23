@@ -527,7 +527,7 @@ The amplification factor is 1. This is not a shocking result. However, do realiz
 
 ```{figure} /Fig-ch6/OA14.png
 ---
-width: 400px
+width: 500px
 name: fig:oa14
 ---
 Inverting amplifier
@@ -554,7 +554,7 @@ $$ (eq:Gia)
 
 ```{figure} /Fig-ch6/OA15.png
 ---
-width: 400px
+width: 500px
 name: fig:oa15
 ---
 Current to voltage converter
