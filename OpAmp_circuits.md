@@ -1133,7 +1133,7 @@ $$ (eq:ch6-34)
 Then 
 
 $$
-\omega_{3 \; {\rm dB}} = \frac{1}{\tau_A^2 \tau_B^2} \rightarrow \omega_{3 \; {\rm dB}} = \frac{1}{\tau_A \tau_B} = \frac{1}{2 R^2 C_B^2}.
+\omega_{3 \; {\rm dB}}^4 = \frac{1}{\tau_A^2 \tau_B^2} \rightarrow \omega_{3 \; {\rm dB}} = \frac{1}{\sqrt{\tau_A \tau_B}} = \frac{1}{\sqrt{2} R C_B} = \frac{1}{2} \sqrt{2} \frac{1}{R C_B}.
 $$ (eq:ch6-35)
 ::::
 
