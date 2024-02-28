@@ -1200,7 +1200,7 @@ align: right
 - Design in Multisim an instrumentation amplifier with an adjustable differential amplification factor of 2 to 10. (Use an amplification factor of 1 for part B.)
 - Build and test parts A and B of an instrumentation amplifier separately  ({numref}`fig:oa18`).
 - Connect parts A and B together and test the instrumentation amplifier.
-- Determine the CMRR experimentally and compare this with the theoretical expected increase described bellow eqn. {eq}`eq:deltaV`. Investigate this for different amplification factors.
+- Determine the CMRR experimentally and compare this with the theoretical expected increase described below eqn. {eq}`eq:deltaV`. Investigate this for different amplification factors.
 ````
 
 ````{admonition} Exercise 6.14
