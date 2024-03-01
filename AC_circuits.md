@@ -738,8 +738,8 @@ name: multisim
 ````
 
 :::{note}
-The measured data in the Bode Analyzer of NI Elvis is saved with the 'Log' button (Lower right corner). First set the y-scale to linear, because Multisim data is always saved linear!\
-The simulation data in Multisim is saved in the 'Grapher' with the 'Export to Excel' button (Upper right corner). The 'Grapher' is found in the View-menu of Multisim. The red arrow on the left side of the graph indicates which graph is saved. Selecting is done by a click on the graph.
+The measured data in the Bode Analyzer of NI Elvis is saved with the 'Log' button (Lower right corner). Save the data using a dB-scale. \
+The simulation data in Multisim is saved in the 'Grapher' with the 'Export to Excel' button (Upper right corner). The 'Grapher' is found in the View-menu of Multisim. The red arrow on the left side of the graph indicates which graph is saved. Selecting is done by a click on the graph. Multisim always saves the data using a linear scale so you will need to convert the modulus to dB scale for comparison with the experimental data.
 :::
 
 ````{admonition} Exercise 4.5
