@@ -151,7 +151,7 @@ $$
 \begin{split}
         y(t) &= G \cdot r(t) \\
         r(t) &= F \cdot e(t) \\
-        e(t) &= x() - y(t).
+        e(t) &= x(t) - y(t).
     \end{split}
 $$ (eq:ch7-10)
 
