@@ -465,7 +465,7 @@ Nyquist plot for a high-pass filter obtained from simulation
 ```
 ::::
 
-In a Nyquist plot it is easy to see whether a closed system is stable or not (see {numref}`fig:cs13`. 
+In a Nyquist plot it is easy to see whether a closed system is stable or not (see {numref}`fig:cs13`). 
 
 ```{figure} /Fig-ch7/CS13.png
 ---
