@@ -1,4 +1,4 @@
-(control_systems)=
+exercise(control_systems)=
 # Control systems
 
 In this chapter a number of basic principles of control systems are covered. The following will be discussed:
@@ -422,8 +422,8 @@ so
 
 $$
 \begin{split}
-{\rm Re} [ A ( \omega ) ] &= \frac{\omega^2 \tau^2}{1 + \omega^2 \tau^2} = \frac{1}{1 + \left( \frac{1}{\omega \tau} \right)^2},\; {\rm and} \\
-{\rm Im} [ A ( \omega ) ] &= \frac{\omega \tau}{1 + \omega^2 \tau^2} = \frac{1}{1 + \frac{1}{\omega \tau} + \omega \tau}.
+{\rm Re} [ A ( \omega ) ] &= \frac{\omega^2 \tau^2}{1 + \omega^2 \tau^2},\; {\rm and} \\
+{\rm Im} [ A ( \omega ) ] &= \frac{\omega \tau}{1 + \omega^2 \tau^2}.
 \end{split}
 $$ (eq:ch7-15)
 
