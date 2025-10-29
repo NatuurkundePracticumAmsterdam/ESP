@@ -1,8 +1,5 @@
 (Introduction)=
-# Introduction
-
-## Corona measures test
-We find it important that everyone feels safe and comfortable studying on campus. If you experience any symptoms (coughing, sneezing, a sore throat, congestion or a runny nose) please take a self-test and if you are positive stay at home. If you need to stay at home please inform [Gerrit Kuik](mailto:g.j.kuik@vu.nl). 
+# 1. Introduction
 
 ## Objective
 The objective of the *Electronics \& Signal Processing* lab course is to become familiar with basic concepts of electronics, signal processing and control systems techniques. Electronics is very much a "hands-on" subject. One can gather knowledge through studying literature (which you should certainly do), but only by *doing* electronics the subject can really be mastered.

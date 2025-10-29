@@ -1,5 +1,5 @@
 (measuring_systems)=
-# Measuring systems
+# 2. Measuring systems
 
 A measuring system is a system designed to collect data on a certain physical process and to present this data in a useful and accessible form  to an observer and/or to another system. 
 

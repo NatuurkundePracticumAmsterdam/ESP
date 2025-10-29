@@ -1,5 +1,5 @@
 exercise(control_systems)=
-# Control systems
+# 7. Control systems
 
 In this chapter a number of basic principles of control systems are covered. The following will be discussed:
 - Open and closed loop method

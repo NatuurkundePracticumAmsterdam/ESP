@@ -1,5 +1,5 @@
 (DC_circuits)=
-# DC circuits
+# 3. DC circuits
 
 In this chapter the behavior of DC - or direct current - circuits are studied. A number of basic principles and analyses techniques will be covered that can also be applied to AC - or alternating current - circuits.
 

@@ -1,5 +1,5 @@
 (AC_circuits)=
-# AC circuits
+# 4. AC circuits
 
 For the analyzes of alternating current or AC circuits the use of complex numbers is quite convenient. For the most important properties of complex numbers refer to {ref}`complex_numbers`.
 

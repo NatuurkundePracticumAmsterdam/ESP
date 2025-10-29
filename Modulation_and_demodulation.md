@@ -1,5 +1,5 @@
 (modulation_and-demodulation)=
-# Modulation and demodulation
+# 8. Modulation and demodulation
 
 In many communication systems, but also in many measurement systems, a form of modulation is used. Modulation is a form of signal conversion where a carrier wave is used. One of the parameters of the carrier wave is depending on the input signal (modulated). Examples are:
 

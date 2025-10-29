@@ -1,5 +1,5 @@
 (OpAmps)=
-# OpAmp circuits
+# 6. OpAmp circuits
 
 So far only use has been made of discrete components like resistors, capacitors, coils and diodes. In many electronic circuits use is made of integrated circuits (ICs). ICs are small electronic blocks with specific functionality, which contain many (sometimes over a thousand) components like resistors, capacitors, coils, diodes and transistors integrated on a single device. \
 An example of an IC is the operational amplifier (*OpAmp*). This chapter covers basic concepts of the OpAmp and several exercises to become familiar with common OpAmp circuits. \

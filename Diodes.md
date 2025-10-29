@@ -1,5 +1,5 @@
 (diodes)=
-# Diodes
+# 5. Diodes
 
 Most modern electronic systems are based on *semiconductor* components, such as diodes and transistors. This chapter briefly discusses the physical properties of semiconductors and how this plays a role in diodes. For a more detailed treatment of semiconductors and other semiconductor components, such as the transistor, references are made to the many books which have been written on this subject. \
 Topics covered in this chapter are:
