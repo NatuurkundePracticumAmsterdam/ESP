@@ -275,7 +275,7 @@ we get
 
 $$
 \begin{split}
-| A (\omega_{3 \; {\rm dB}}| &= \frac{1}{2} \sqrt{2} \rightarrow \\
+| A (\omega_{3 \; {\rm dB}})| &= \frac{1}{2} \sqrt{2} \rightarrow \\
 \frac{\omega R C}{\sqrt{1 + ( \omega R C )^2}} &= \frac{1}{2} \sqrt{2} \rightarrow \\
 \frac{( \omega R C )^2}{1 + ( \omega R C )^2} &= \frac{1}{2} \rightarrow \\
 2 ( \omega R C )^2 &= 1 + ( \omega R C )^2 \rightarrow \\
