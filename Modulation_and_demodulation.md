@@ -41,7 +41,7 @@ $$
 \cos A \cdot \cos B = \dfrac{1}{2} \left[ \cos (A+B) + \cos (A-B) \right].
 $$ (eq:Mod01)
 
-Using eqn.(\ref{eq:Mod01}) multiplication of the carrier wave frequency $ \omega_{\rm d} $ and input signal frequency $ \omega_{\rm i} $<sup>[^1]</sup> results in an output signal $ x_{0} $ given by:
+Using eqn.{eq}`eq:Mod01` multiplication of the carrier wave frequency $ \omega_{\rm d} $ and input signal frequency $ \omega_{\rm i} $<sup>[^1]</sup> results in an output signal $ x_{0} $ given by:
 
 $$
 x_{0}(t) = \dfrac{x_{\rm d}x_{\rm i}}{2} \left[ \cos (\omega_{\rm d}+\omega_{\rm i})t + \cos (\omega_{\rm d}-\omega_{\rm i})t \right]
