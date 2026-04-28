@@ -39,7 +39,7 @@ With the help of Kirchhoff's voltage law and Ohm's law for the circuit of {numre
 
 $$
 V_{2}=\dfrac{R_{2}}{R_{1}+R_{2}} \cdot V
-$$ (eq1)
+$$ (Beq1)
 
 ### Kirchhoff's Current Law
 
@@ -62,7 +62,7 @@ For the circuit shown in {numref}`fig:FigB3` the current $I_2$ is given by:
 
 $$
 I_{2}=\dfrac{R_{1}}{R_{1}+R_{2}} \cdot I.
-$$ (eq2)
+$$ (Beq2)
 
 ## Voltage and current source
 ### Voltage sources
@@ -87,11 +87,11 @@ name: fig:FigB5
 Real voltage source with a load
 ```
 
-For {numref}`fig:FigB5`), with a voltage source  connected to a resistor $R_{\rm L}$ the output or terminal voltage $V_{\rm AB}$, using eqn. {eq}`eq1`, is given by:
+For {numref}`fig:FigB5`), with a voltage source  connected to a resistor $R_{\rm L}$ the output or terminal voltage $V_{\rm AB}$, using eqn. {eq}`Beq1`, is given by:
 
 $$
 V_{\rm AB}=\dfrac{R_{\rm L}}{R_{\rm s}+R_{\rm L}} \cdot V
-$$ (eq3)
+$$ (Beq3)
 
 $V_{\rm AB}$ will approach $V$ better if $R_{\rm s}$ becomes smaller or $R_{\rm L}$ larger.\
 For an ideal voltage source the output voltage $V_{\rm AB}$ is constant, regardless the magnitude of the current $I$ and therefore independent of load $R_{\rm L}$. For an ideal voltage source $R_{\rm s}$ equals zero must apply.
@@ -117,11 +117,11 @@ name: fig:FigB7
 Real current source with load $R_{\rm L}$
 ```
 
-A resistor $R_{\rm L}$ connected to a current source (see {numref}`fig:FigB7`) will have an output current $I_{\rm L}$ (using eqn. {eq}`eq2`) equal to:
+A resistor $R_{\rm L}$ connected to a current source (see {numref}`fig:FigB7`) will have an output current $I_{\rm L}$ (using eqn. {eq}`Beq2`) equal to:
 
 $$
 I_{L}=\dfrac{R_{\rm s}}{R_{\rm s}+R_{\rm L}} \cdot I.
-$$ (eq4)
+$$ (Beq4)
 
 $I_{\rm L}$ will approach $I$ better as $I_{\rm s}$ gets smaller.
 This is the case when $R_{\rm s}$ becomes larger or $R_{\rm L}$ smaller.
