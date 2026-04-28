@@ -166,7 +166,7 @@ Determination of $R_{\rm Th}$
 ```
 
 $$
-R_{\rm Th} = 2 \cdot 3k3 + (1k || 2k35) = 7k3.
+R_{\rm Th} = 2 \cdot 3k3 + (1k || 2k35) = 6k7.
 $$ (eq:ch3-3)
 
 This results in {numref}`fig-31c`.
