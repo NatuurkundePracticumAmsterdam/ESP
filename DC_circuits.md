@@ -23,7 +23,7 @@ An active element is an element that can add net energy to a circuit. A passive 
 The three passive basic elements are linear. A resistor is linear because the potential difference across a resistor depends linearly on the current passing through it. A coil is linear because the potential difference across a coil depends linearly on change of current passing through it. A capacitor is linear because the change of potential difference across a capacitor depends linearly on the current through it. The linearity of passive elements simplifies the analysis of circuits strongly.
 
 ### Kirchhoff's laws
-Appendix B covers a number of basic laws, including Kirchhoff's laws.
+{ref}`Kirchhoff` covers a number of basic laws, including Kirchhoff's laws.
 
 ## Network theorems
 Electronic circuits constructed of several resistors and sources quickly become complex. This section covers a number of circuit analysis techniques that simplify complex circuits.
