@@ -17,7 +17,7 @@ $$
 z = x + j \cdot y.
 $$ (eq2)
 
-where $x$ and $y$ are real numbers. The variables $x$ and $y$ are  the real (Re$z$) and the imaginary (Im$z$) component of $z$ respectively. The complex number $z$ can also be written as:
+where $x$ and $y$ are real numbers. The variables $x$ and $y$ are  the real (Re $z$) and the imaginary (Im $z$) component of $z$ respectively. The complex number $z$ can also be written as:
 
 $$
 z = ({\rm Re} \, z,\, {\rm Im} \, z) = (x,\, y).
