@@ -28,7 +28,7 @@ name: MS-fig
 
 ```
 
-You do not need to hand in these exercises but you will be asked to show your work during the lab sessions. Model answers will be made available through Canvas. 
+You do not need to hand in these exercises but they will prepare you for the circuit design exercises as well as for the tests. Model answers are available through the website. 
 - The exercises at the end of each chapter are circuit designs that have to be constructed using the *NI Elvis* system board (lab exercises). The lab exercises you need to hand in (individually) as a digital lab journal (see {ref}`reporting`).
 
 ## Test
