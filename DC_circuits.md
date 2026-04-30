@@ -525,7 +525,7 @@ $$
 A = \frac{y}{x}.
 $$ (eq:tf)
 
-For voltage amplification eqn.({eq}`eq:tf`) turns into:
+For voltage amplification eqn.{eq}`eq:tf` turns into:
 
 $$
 A_{\rm V} = \frac{V_{\rm out}}{V_{\rm in}},
