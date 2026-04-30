@@ -523,9 +523,9 @@ Amplification can be considered as a transfer function $A$ (see {ref}`transfer_f
 
 $$
 A = \frac{y}{x}.
-$$ (tf)
+$$ (eq:tf)
 
-For voltage amplification eqn.(\ref{tf}) turns into:
+For voltage amplification eqn.({eq}`eq:tf`) turns into:
 
 $$
 A_{\rm V} = \frac{V_{\rm out}}{V_{\rm in}},
