@@ -572,7 +572,7 @@ The cut-off value of the first filter needs to be high which means $\tau_1$ need
 $$
 \begin{split}
 |A( \omega ) &= \frac{\omega \tau_2}{\sqrt{1 + \omega^2 \left(\omega^2 \tau_1^2 \tau_2^2 + \tau_1^2 + \tau_2^2 + \alpha^2 \tau_2^2 + 2 \alpha \tau_1 \tau_2 + 2 \alpha \tau_2^2 \right)}} \approx \frac{\omega \tau_2}{\omega
- \cdot \omega \tau_1 \tau_2} 
+ \cdot \omega \tau_1 \tau_2} \\
  &= \frac{1}{\omega \tau_1}.
  \end{split}
 $$ (eq:ch4-17)
