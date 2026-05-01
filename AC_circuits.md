@@ -240,7 +240,7 @@ Amplitude and phase functions can be shown with the "grapher" (below in the View
 The transfer function is given by (voltage divider)
 
 $$
-A ( \omega ) = \frac{V_{\rm out}}{V_{\rm in}} = \frac{R}{R + 1 / j \omega R C} = \frac{j \omega R C}{j \omega R C + 1}.
+A ( \omega ) = \frac{V_{\rm out}}{V_{\rm in}} = \frac{R}{R + 1 / j \omega C} = \frac{j \omega R C}{j \omega R C + 1}.
 $$ (eq:ch4-2)
 
 The amplitude is given by 
