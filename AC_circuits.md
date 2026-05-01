@@ -693,7 +693,7 @@ Further elaboration of eqn. {eq}`eq:AC22`, which takes account of the fact that 
 $$
 \nonumber
  \left.\begin{aligned}
-       \omega_{3dB}&=\dfrac{-L+\sqrt{L^{2}+4R^{2}LC}}{2RLC}\
+       \omega_{3dB}&=\dfrac{-L+\sqrt{L^{2}+4R^{2}LC}}{2RLC} \\
        \omega_{3dB}&=\dfrac{L+\sqrt{L^{2}+4R^{2}LC}}{2RLC}
        \end{aligned}
   \right\}
