@@ -25,7 +25,7 @@ Thus, the current runs $90 ^{\rm o}$ in phase before the voltage.
 Naively applying Ohm's law provides a remarkable result for the resistance of a capacitor:
 
 $$
-R_{c}=\dfrac{v(t)}{i(t)}=\dfrac{v \sin (\omega t)}{\omega C \hat{v} \cos (\omega t)}=\dfrac{1}{\omega C} \tan (\omega t)
+R_{c}=\dfrac{v(t)}{i(t)}=\dfrac{\hat{v} \sin (\omega t)}{\omega C \hat{v} \cos (\omega t)}=\dfrac{1}{\omega C} \tan (\omega t)
 $$ (eq:AC02)
 
 This quantity ranges from $ -\infty $ to $ +\infty $. That is certainly not a useful quantity. That in itself is not surprising, because of the attempt to describe two things with one variable: the relationship between the magnitude of the voltage and current on the one hand, and the phase difference between voltage and current on the other.
