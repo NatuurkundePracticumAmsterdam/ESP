@@ -371,7 +371,7 @@ The amplitude function of {numref}`fig:ac06` is given by
 $$
 \begin{split}
 | A (\omega) | &= \frac{\ | 1 |}{| 1 + 2 j \omega \tau - \omega^2 \tau^2 |} \\
-&= \frac{1}{\sqrt{(1 = \omega^2 \tau^2 )^2 + (2 \omega \tau )^2}} \\
+&= \frac{1}{\sqrt{(1 - \omega^2 \tau^2 )^2 + (2 \omega \tau )^2}} \\
 &= \frac{1}{\sqrt{1 - 2 \omega^2 \tau^2 + \omega^4 \tau^4 + 4 \omega^2 \tau^2}} \\
 &= \frac{1}{\sqrt{1 + 2 \omega^2 \tau^2 + \omega^4 \tau^4}} \\
 &= \frac{1}{\sqrt{(1 + \omega^2 \tau^2)^2}} \\
@@ -391,7 +391,7 @@ $$ (eq:ch4-10)
 
 When $\omega \ll \frac{1}{\tau}$ the amplitude $|A| \approx 1$ and phase $\phi \approx 0$. \
 When $\omega = \frac{1}{\tau}$ the amplitude $|A| = \frac{1}{2}$ and phase $\phi = - \tan^{-1} (\frac{2}{0}) = - \frac{\pi}{2}$. \
-When $\omega \gg \frac{1}{\tau}$ the amplitude $|A| \approx 0$ and phase $\phi \approx \tan^{-1} (2 \omega \tau / - \omega^2 \tau^2) = \tan^{-1} ( 2 / - \omega \tau) \approx 0 - \pi \rightarrow - \pi$. 
+When $\omega \gg \frac{1}{\tau}$ the amplitude $|A| \approx 0$ and phase $\phi \approx \tan^{-1} (2 \omega \tau /- \omega^2 \tau^2) = \tan^{-1} ( 2 /- \omega \tau) \approx 0 - \pi \rightarrow - \pi$. 
 
 The amplitude and phase functions are shown in {numref}`fig:42a` and {numref}`fig:42b` for $R_1 = R_2 = 1 \; {\rm k} \Omega$ and $C_1 = C_2 = 32$ nF. 
 
