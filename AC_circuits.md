@@ -711,7 +711,7 @@ $$ (eq:AC24)
 
 ## Lab exercises
 :::{note}
-In the following exercises a Bode plot need to be measured. This always means both a plot of the amplitude of the transfer function and a plot of the phase transfer function.
+In the following exercises a Bode plot needs to be measured. This always means both a plot of the amplitude of the transfer function and a plot of the phase transfer function.
 :::
 
 ````{admonition} Exercise 4.4
@@ -737,7 +737,7 @@ name: multisim
 - Design in Multisim a low-pass filter as shown in {numref}`fig:ac03` with a -3 dB point of 1 kHz and make a Bode plot of the transfer function.
 - Build this filter with NI Elvis.
 - Determine the -3 dB point from the Bode plot. 
-- Compare the experimentally determined values with the results of the simulation. Plot for this the data sets of both amplitude transfer functions in one graph and both phase transfer function in one graph.
+- Compare the experimentally determined values with the results of the simulation. Plot for this the data sets of both amplitude transfer functions in one graph and both phase transfer functions in one graph.
 ````
 
 :::{note}
@@ -765,7 +765,7 @@ name: fig-Lexercise
 - First show the transfer function of this filter in a Bode plot with the aid of Multisim.
 - Build this filter.
 - Determine the -3 dB point from the measured Bode plot.
-- Plot the simulation and the measured data in one graph and compare the experimentally determined values with the results of the simulation. Values like $ \omega_{3 \, {\rm dB}} $ at the low and high side and $|A|_{\rm max}$.
+- Plot the simulation and the measured data in one graph and compare the experimentally determined values with the results of the simulation (the $ \omega_{3 \, {\rm dB}} $ at the low and high side and $|A|_{\rm max}$).
 ````
 
 ````{admonition} Exercise 4.6
