@@ -262,6 +262,7 @@ name: fig:91_after_demo_before_LPF
 The signal after demodulation before the low-pass filter
 ```
 - Using a low-pass filter with $R = 2.6 \; {\rm k}\Omega$ and $C = 100$ nF ($\omega_{3 \; {\rm dB}} = 3846 \; {\rm rad/s}$, so $f_{3 \; {\rm dB}} = 612$ Hz) higher frequencies can be filtered out and only the original input signal $f_i = 400$ Hz is obtained (see {numref}`fig:91_after_lpf`).
+- |A (400 Hz)| = 3.0 dB, |A(9 kHz)| = -27.5 dB, |A(11 kHz)| = -27.3 dB, |A(19.6 kHz)| = -31.9 dB and |A(20.4 kHz)| = -34.4 dB using Multisim.
 ```{figure} /Fig-sol/91_after_lpf.png
 ---
 width: 600px
