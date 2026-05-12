@@ -194,7 +194,7 @@ Synchronous detector
 In order to see the result of these operations we make again use of eqn. {eq}`eq:Mod01` were the multiplication of two sinusoidal signals with frequencies $ \omega_{1} $ and $ \omega_{2} $ result in a signal containing two frequency components: the sum frequency $ \omega_{1}+\omega_{2} $ and difference frequency $ \omega_{1}-\omega_{2} $.\
 An AM signal with suppressed carrier wave contains, as shown in {numref}`fig:Mod02`c, two frequency components $ \omega_{\rm d}+\omega_{\rm i} $ and $ \omega_{\rm d}-\omega_{\rm i} $. Multiplication with a signal $ x_{s}(t)=x_{\rm s}\cos(\omega_{\rm d}t+\phi) $, which is synchronous with the carrier wave signal, will result in a signal with three frequency components: $\omega_{\rm i}$,
 $2\omega_{\rm d}-\omega_{\rm i} $, $2\omega_{\rm d}+\omega_{\rm i} $. $ \phi $ is important when there is a phase shift between the two carrier waves used for the modulation and for demodulation. \
-Using eqn.(\ref{eq:Mod02}) the result can be expressed as:
+Using eqn. {eq}`eq:Mod02` the result can be expressed as:
 
 $$
 \begin{split}
