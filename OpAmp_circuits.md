@@ -534,7 +534,7 @@ Inverting amplifier
 ```
 
 The $+$ input of the OpAmp in {numref}`fig:oa14` is grounded. So $V_+ = 0$. Then using eqn.{eq}`eq:Vin2` $V_- = 0$. The $-$ input is connected to a *'virtual ground'*. \
-Because the inputs of the OpAmp draw no current, any current running throufg $R_1$ also has to run through $R_2$. This results in:
+Because the inputs of the OpAmp draw no current, any current running through $R_1$ also has to run through $R_2$. This results in:
 
 $$
 I = \frac{V_{\rm in } - 0}{R_1} = \frac{0 - V_{\rm out}}{R_2}.
@@ -625,7 +625,7 @@ Inverting amplifier with Zener diode in feedback
 ```
 
 The signal is inverted and clipped at +4 V and -0.6 V.\
-When $V_-$ gets only a little bit positive (the blue trace in figure 6.6) $V_{\rm out}$ becomes negative. So the diode is forward biased with a gain $G = 1 / B = 1$. At a low frequency the amplification will cause $V_{\rm out}$ to grow towards -15 V. However, at approximately -0.6 V the diode will conduct with a voltage drop across the diode of approximately -0.6 V. Because there is feedback $V_+ = V_- = 0$ V. Hence, there will be a voltage drop across the resistor $R$. \
+When $V_-$ gets only a little bit positive (the blue trace in {numref}`fig:66`) $V_{\rm out}$ becomes negative. So the diode is forward biased with a gain $G = 1 / B = 1$. At a low frequency the amplification will cause $V_{\rm out}$ to grow towards -15 V. However, at approximately -0.6 V the diode will conduct with a voltage drop across the diode of approximately -0.6 V. Because there is feedback $V_+ = V_- = 0$ V. Hence, there will be a voltage drop across the resistor $R$. \
 When $V_-$ gets only a little bit negative $V_{\rm out}$ becomes positive. So the diode is reversed biased with a gain $G = A / 1 + AB = A$. At a low frequency the amplification A will be large and immediately result in $V_{\rm out}$ = +15 V. However, when the Zener breakdown voltage of 4 V is reached the diode will clip $V_{\rm out}$ to 4 V. 
 ::::
 
