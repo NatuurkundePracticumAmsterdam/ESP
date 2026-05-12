@@ -31,14 +31,14 @@ $$ (eq:ch6-1)
 ````{admonition} Exercise 6.1
 :class: note
 
-One wants to amplify two input signals each with a common DC-component of 10 V ( =$V_{CM_{in}}$). The difference between the two input signals is in the order of 0.01 V ( =$V_{DM_{in}}$). The output signal of the amplifier is $V_{_{out}}=V_{DM_{out}}+V_{CM_{out}}$
-- What is the minimal CMRR value under the condition that the unwanted part in the output signal ($V_{DM_{out}}$), due to the common signal ($V_{CM_{out}}$), is less then 1 \%?   
+One wants to amplify two input signals each with a common DC-component of 10 V ( =$V_{\rm in, \; CM}$). The difference between the two input signals is in the order of 0.01 V (=$\rm V_{in, \; DM}$). The output signal of the amplifier is $V_{\rm {out}}=V_{\rm out, \; DM}+V_{\rm out, CM}$
+- What is the minimal CMRR value under the condition that the unwanted part in the output signal ($V_{\rm out, \; DM}$), due to the common signal ($V_{\rm out, \; CM}$), is less then 1 \%?   
 ````
 
 ::::{admonition} Answer
 :class: dropdown
 
-Given that $V_{\rm CM}$ = 10 V, $V_{\rm D}$ = 0.01 V and $V_{\rm out, \; CM}$ = 0.01 $\cdot V_{\rm out, \; DM}$ we get 
+Given that $V_{\rm CM}$ = 10 V, $V_{\rm DM}$ = 0.01 V and $V_{\rm out, \; CM}$ = 0.01 $\cdot V_{\rm out, \; DM}$ we get 
 
 $$
 {\rm CMRR} = \frac{A_{\rm DM}}{A_{\rm CM}} = \frac{\frac{V_{\rm out, \; DM}}{V_{\rm in, \; DM}}}{\frac{V_{\rm out, \; CM}}{V_{\rm in, \; CM}}} = \frac{V_{\rm out, \; DM}}{V_{\rm out, \; CM}} \frac{V_{\rm in, \; CM}}{V_{\rm in, \; DM}} = \frac{V_{\rm out, \; DM}}{0.01 \cdot V_{\rm out, \; DM}} \frac{10}{0.01} = 10^5.
