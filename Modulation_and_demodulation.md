@@ -413,8 +413,9 @@ The BPX 25 and associated amplifier (see {numref}`fig:Mod09`) are placed togethe
 ```{figure} /Fig-ch3/Lexercise.png
 ---
 width: 50px
-align: right
 name: fig:Lex
+align: right
+
 ---
 
 ```
