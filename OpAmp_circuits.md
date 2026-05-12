@@ -689,7 +689,7 @@ align: right
 
 ```
 -  First design in Multisim a differential amplifier ({numref}`fig:oa17`) with a gain factor of 10.
-- Calculate with eqn. {eq}`eq:CMMR` the lower limit of the CMRR. The tolerance of resistor $R_1$ and $R_2$ are both 5\%.
+- Calculate using eqn. {eq}`eq:CMMR` the lower limit of the CMRR. The tolerance of resistor $R_1$ and $R_2$ are both 5\%.
 ```{figure} /Fig-ch1/multisim.png
 ---
 width: 50px
