@@ -31,7 +31,7 @@ $$ (eq:ch6-1)
 ````{admonition} Exercise 6.1
 :class: note
 
-One wants to amplify two input signals each with a common DC-component of 10 V ( =$V_{\rm in, \; CM}$). The difference between the two input signals is in the order of 0.01 V (=$\rm V_{in, \; DM}$). The output signal of the amplifier is $V_{\rm {out}}=V_{\rm out, \; DM}+V_{\rm out, CM}$
+One wants to amplify two input signals each with a common DC-component of 10 V ( =$V_{\rm in, \; CM}$). The difference between the two input signals is in the order of 0.01 V (=$\rm V_{in, \; DM}$). The output signal of the amplifier is $V_{\rm {out}}=V_{\rm out, \; DM}+V_{\rm out, \; CM}$
 - What is the minimal CMRR value under the condition that the unwanted part in the output signal ($V_{\rm out, \; DM}$), due to the common signal ($V_{\rm out, \; CM}$), is less then 1 \%?   
 ````
 
