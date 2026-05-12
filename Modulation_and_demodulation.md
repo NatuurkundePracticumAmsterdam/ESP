@@ -138,13 +138,13 @@ $$
 \begin{split}
 & x_{0}(t) = x_{i}(t) \cdot s(t) \\
  &= x_{\rm i} \left ( \dfrac{1}{2}+\dfrac{2}{\pi} \sum\limits_{1}^\infty \dfrac{1}{n} \sin n\omega_{\rm d}t \right ) \cos\omega_{\rm i}t \; (n = {\rm odd}) \\
- & =\dfrac{1}{2}x_{\rm i}\cos\omega_{ \rm i}t \, + \\
-\dfrac{x_{\rm i}}{\pi} [ \sin( \omega_{\rm d}+\omega_{i})t 
-& + \sin( \omega_{\rm d}-\omega_{\rm i})t \, +  \\
-\dfrac{1}{3}(\sin(3 \omega_{\rm d}+\omega_{\rm i})t 
-&+ \sin(3 \omega_{\rm d}-\omega_{\rm i})t ) + \\
-\dfrac{1}{5}(\sin(5 \omega_{\rm d}+\omega_{\rm i})t 
-&+ \sin(5 \omega_{\rm d}-\omega_{\rm i})t ) + ... ] \\
+ & =\dfrac{1}{2}x_{\rm i}\cos\omega_{ \rm i}t \, + 
+& \dfrac{x_{\rm i}}{\pi} [ \sin( \omega_{\rm d}+\omega_{i})t 
+ + \sin( \omega_{\rm d}-\omega_{\rm i})t \, +  \\
+& \dfrac{1}{3}(\sin(3 \omega_{\rm d}+\omega_{\rm i})t 
++ \sin(3 \omega_{\rm d}-\omega_{\rm i})t ) +  \\
+& \dfrac{1}{5}(\sin(5 \omega_{\rm d}+\omega_{\rm i})t 
++ \sin(5 \omega_{\rm d}-\omega_{\rm i})t ) + ... ] \\
 \end{split}
 $$ (eq:Mod05)
 
