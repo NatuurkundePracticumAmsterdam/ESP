@@ -384,10 +384,10 @@ name: fig:Mod11
 ---
 Optical experiment with lock-in detector
 ```
-````
 
 Light of a lamp with constant intensity $ I_{0} $ shines on a rotating disk (chopper) with a angular velocity $\omega$. The disk contains holes. Behind the chopper, the intensity of the light will vary with frequency $ \omega $. The resulting carrier wave is then modulated by the experiment measurement signal $ x(t) $.
 When light from a fluorescent lamp (frequency 100Hz) disturbs the measurement signal, the detector apart from the $ \omega $ component will also detect a $ 200\pi $ component. The lock-in amplifier with a suitably chosen low pass filter will filter out the $ 200\pi $ component and produce an output signal which is proportional to $ x(t) $.
+````
 
 ### Simulation experiment with a Lock-In
 
