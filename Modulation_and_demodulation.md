@@ -432,7 +432,7 @@ A modulated light source
 $ 
 \begin{split}
 \\
-&\sin A \cdot \sin B = \frac{1}{2} \left[ \cos (A - B) - cos (A + B)\right], \\
+&\sin A \cdot \sin B = \frac{1}{2} \left[ \cos (A - B) - \cos (A + B)\right], \\
 \\
 &V_{in} = I_o \cdot \left[ \frac{1}{2} + \frac{2}{\pi} \left( \sin \omega_r t + \frac{1}{3} \sin (3 \omega_r t) \right) \right] \; {\rm and} \\
 \\
@@ -445,7 +445,7 @@ $
 - Using the frequency analyser of NI-Elvis investigate the output voltage *before* the LPF. Explain the observations.
 - In this setup an experiment is situated between the LED and the photo diode: place an electric fan between the LED and the photodiode. The electric fan runs after applying a voltage of about 5 V (use the variable voltage supply of NI-Elvis). When set to manual you can use the dial on the right top of the NI-Elvis board to adjust the voltage. What component of the output frequency signal in $ V_{out} $ is due to this experiment? Determine this frequency. Hint: you should probably increase the $\omega_r$ for this experiment.
 
-The last three tasks may not work in S5.29 due to grounding problems. If you have time left give it a try!
+The last three tasks may not work due to sensitive grounding problems. If you have time left give it a try!
 - For a disturbance we use a second LED. Place this LED next to the first one. Connect this LED to a second signal generator.
 - Study the influence of the frequency and the light intensity of the second LED on the output voltage.
 - Explain what happens when $ f_{{\rm LED}_1} \approx f_{{\rm LED}_2} $. Make a graph around this frequency.
