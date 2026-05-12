@@ -428,7 +428,7 @@ name: fig:Mod13
 ---
 A modulated light source
 ```
-- We will investigate a LIA set up according to the general diagram of figure 9.12. We will not include an optical setup so that part can be left out. Before you investigate the circuit experimentally first derive what signals you expect to observe. Use 
+- We will investigate a LIA set up according to the general diagram of {numref}`fig:Mod12`. We will not include an optical setup so that part can be left out. Before you investigate the circuit experimentally first derive what signals you expect to observe. Use 
 $ 
 \begin{split}
 \\
