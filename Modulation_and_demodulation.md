@@ -252,8 +252,8 @@ name: fig:91_after_mod
 ---
 The signal after modulation
 ```
-- Before the demodulation a disturbance frequency $f_s$ of 1 k Hz is added. So during the modulation, but before the low-pass filter the output signal has 3 frequencies: $f_d - f_i = 9.6$ kHz, $f_d + f_i = 10.4$ kHz and $f_s = 1$ kHz.
-- After the demodulation but before the low-pass filter, the behavior of the frequency is given by eqn. (8.6), resulting in: $f_i = 400$ Hz, $f_d - fs = 9$ kHz, $f_d + fs = 11$ kHz, $2f_d - f_i = 19.6$ kHz and $2f_d + f_i = 20.4$ kHz (see {numref}`fig:91_after_demo_before_LPF`).
+- Before the demodulation a disturbance frequency $f_s$ of 1 k Hz is added. So the output signal has 3 frequencies: $f_d - f_i = 9.6$ kHz, $f_d + f_i = 10.4$ kHz and $f_s = 1$ kHz.
+- After the demodulation but before the low-pass filter, the behavior of the frequency is given by eqn. ({eq}`eq:Mod06`, resulting in: $f_i = 400$ Hz, $f_d - fs = 9$ kHz, $f_d + fs = 11$ kHz, $2f_d - f_i = 19.6$ kHz and $2f_d + f_i = 20.4$ kHz (see {numref}`fig:91_after_demo_before_LPF`).
 ```{figure} /Fig-sol/91_after_demo_before_LPF.png
 ---
 width: 600px
