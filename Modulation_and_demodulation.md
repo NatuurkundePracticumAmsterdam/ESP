@@ -358,8 +358,8 @@ The DC offset is filtered out by the AC amplifier. After multiplication in the s
 $$
 \begin{split}
  x_{0}(t)  & = \dfrac{x(t)}{2}( \cos \phi + \cos (2 \omega_{\rm ref}t + \phi )) \\
-+ & \dfrac{b}{2} ( \cos ( (\omega_{\rm ref} + \omega_{2})t + \phi ) \\
-+ & \cos ( (\omega_{\rm ref} - \omega_{2})t + \phi )).
++ & \dfrac{b}{2} \{ \cos ( (\omega_{\rm ref} + \omega_{2})t + \phi ) \\
++ & \cos ( (\omega_{\rm ref} - \omega_{2})t + \phi )\}.
 \end{split}
 $$ (eq:Mod08)
 
