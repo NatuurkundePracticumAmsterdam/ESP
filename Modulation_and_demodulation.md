@@ -226,7 +226,7 @@ align: right
 ```
 - Open *Mult 8.1* and check your results.
 - Set $ \omega_{3 \, {\rm dB}} $ of the low pass filter such that the original signal can pass nearly undisturbed.
-- How many dB are the frequency components in the output signal, due to the disturbance of 1 kHz, at this value of $ \omega_{3 \, {\rm dB}} $ theoretically suppressed?
+- How many dB are the frequency components in the output signal, due to the disturbance of 1 kHz, at this value of $ \omega_{3 \, {\rm dB}} $ suppressed in Multisim?
 ````
 
 ::::{admonition} Answer
