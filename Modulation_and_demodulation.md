@@ -6,9 +6,9 @@ In many communication systems, but also in many measurement systems, a form of m
 - Amplitude Modulation (AM).
 - Frequency Modulation (FM).
 - Pulse height- and pulse width modulation.
-- phase modulation.
+- Phase modulation.
 
-A consequence of modulation with a generally much lower carrier frequency, is that signal is shifted towards a frequency range around the carrier frequency. This offers some great advantages.
+A consequence of modulation with a generally much lower input frequency, is that signal is shifted towards a frequency range around the carrier frequency. This offers some great advantages.
 - *Frequency Multiplexing:*\
 By choosing different carrier frequencies for different input signals (e.g. radio signals from different transmitters), these signals can simultaneously be transmitted or sent over a single cable.
 
@@ -138,10 +138,13 @@ $$
 \begin{split}
 & x_{0}(t) = x_{i}(t) \cdot s(t) \\
  &= x_{\rm i} \left ( \dfrac{1}{2}+\dfrac{2}{\pi} \sum\limits_{1}^\infty \dfrac{1}{n} \sin n\omega_{\rm d}t \right ) \cos\omega_{\rm i}t \; (n = {\rm odd}) \\
- & =\dfrac{1}{2}x_{\rm i}\cos\omega_{ \rm i}t \, +
-\dfrac{x_{\rm i}}{\pi} [ \sin( \omega_{\rm d}+\omega_{i})t \\
-& + \sin( \omega_{\rm d}-\omega_{\rm i})t \, +  \dfrac{1}{3}(\sin(3 \omega_{\rm d}+\omega_{\rm i})t \\
-&+ \sin(3 \omega_{\rm d}-\omega_{\rm i})t )]
+ & =\dfrac{1}{2}x_{\rm i}\cos\omega_{ \rm i}t \, + \\
+\dfrac{x_{\rm i}}{\pi} [ \sin( \omega_{\rm d}+\omega_{i})t 
+& + \sin( \omega_{\rm d}-\omega_{\rm i})t \, +  \\
+\dfrac{1}{3}(\sin(3 \omega_{\rm d}+\omega_{\rm i})t 
+&+ \sin(3 \omega_{\rm d}-\omega_{\rm i})t ) + \\
+\dfrac{1}{5}(\sin(5 \omega_{\rm d}+\omega_{\rm i})t 
+&+ \sin(5 \omega_{\rm d}-\omega_{\rm i})t ) + ... ] \\
 \end{split}
 $$ (eq:Mod05)
 
