@@ -91,7 +91,7 @@ The 741 can be operated at voltage supplies between $\pm$ 5 to $\pm$ 15 V.
 The output voltage of an OpAmp is limited by the voltage supply chosen. At a voltage supply of $\pm$ 15 V the output voltage will always remain below +15 V and above -15 V. How much less or more depends on the type of OpAmp. \
 So due to the large amplification factors, only for very small input potential differences $V_{\rm out} = A \cdot V_{\rm in}$. This seems odd. However, in {ref}`feedback` we will show that using external components larger input signals can be amplified.
 
-### Common mode rejection ration
+### Common mode rejection ratio
 An ideal OpAmp used as a difference amplifier should have a CMRR of infinity. \
 The 741 has a CMRR of 90 dB. \
 The best available OpAmps have a CMRR over 160 dB.
@@ -143,7 +143,7 @@ The importance of feedback will be illustrated by two examples of how to control
 
 ### Open and closed loop systems
 The first way to control the room temperature is to turn the knob of the radiator a certain amount and hope that this will result in the desired room temperature. In general this will of course result in a room temperature that is either too high or too low. Even if the person that turns the knob based on experience sets it nearly correct the desired temperature may still differ due to external factors, such as a change in the temperature outside or e.g. the opening of a window. Clearly, this example of an *'open loop'* system does not provide an optimal solution. \
-A much better solution is to install a thermostat. The user sets the thermostat to the desired temperature. The thermostat measures the actual room temperature, compares it to the temperature set and based on the difference determines whether the heater should be turned on more or less. The knob on the  radiator does not need to be adjusted (although it should be set such that water can flow through the radiator obviously). At a change of the temperature outside the thermostat will keep the room temperature at the desired setting. Such a system that includes feedback is called a *'closed loop* system.\
+A much better solution is to install a thermostat. The user sets the thermostat to the desired temperature. The thermostat measures the actual room temperature, compares it to the temperature set and based on the difference determines whether the heater should be turned on more or less. The knob on the  radiator does not need to be adjusted (although it should be set such that water can flow through the radiator obviously). At a change of the temperature outside the thermostat will keep the room temperature at the desired setting. Such a system that includes feedback is called a *'closed loop'* system.\
 Systems including feedback use information provided by the output signal to regulate the signal at the input in such a way that the output signal reaches it desired value. \
 {numref}`fig:oa05` illustrates schematically the difference between an open and closed loop system. 
 
@@ -285,7 +285,7 @@ We consider an OpAmp with a $UGB$ of $10^7$ Hz, a steady state amplification of 
 The gain factor of the amplifier is 
 
 $$
-G = \frac{A}{1 + AB} \approx \frac{1}{B} = \frac{1}{0.05} = 50.
+G = \frac{A}{1 + AB} \approx \frac{1}{B} = \frac{1}{0.02} = 50.
 $$ (eq:ch6-6)
 
 Since $UGB = G \cdot BW$ the bandwidth is given by
