@@ -420,7 +420,7 @@ align: right
 
 ```
 
-Build the circuit shown in figure {numref}`fig:Lex` to create a modulated light signal. The maximum current through the LED must remain below 20 mA. Use a square wave with a frequency of about 1 kHz, about 3 $V_{p-p}$ with an offset such that $V_{min} \geq 0$ V.
+Build the circuit shown in {numref}`fig:Lex` to create a modulated light signal. The maximum current through the LED must remain below 20 mA. Use a square wave with a frequency of about 1 kHz, about 3 $V_{p-p}$ with an offset such that $V_{min} \geq 0$ V.
 ```{figure} /Fig-ch8/Modul13.png
 ---
 width: 400px
