@@ -200,7 +200,7 @@ $$
 \begin{split}
 x_{0}(t)  & = \dfrac{x_{\rm s}x_{\rm d}x_{\rm i}}{2} [ \cos (\omega_{\rm i}t) \cos \phi  \\
 + & \dfrac{1}{2} \left{ \cos \left( (2 \omega_{\rm d} + \omega_{\rm i} ) t + \phi \right) \\
-+ &  \cos \left( ( 2 \omega_{\rm d} - \omega_{\rm i} ) t + \phi \right) \right} ].
++ &  \cos \{ ( 2 \omega_{\rm d} - \omega_{\rm i} ) t + \phi \right) \} ].
 \end{split}
 $$ (eq:Mod06)
 
