@@ -179,6 +179,17 @@ name: fig-31c
 Th&eacute;venin equivalent circuit	
 ```
 
+The result in Multisim is the same (see {numref}`fig-31h`):
+
+```{figure} /Fig-sol/31aMulti.png
+---
+width: 600px
+name: fig-31h
+---
+The results of *Mult 3.1a*
+```
+
+
 (b) To determine $V_{\rm Th}$ you first need to determine $I_{\rm Th}$ (see {numref}`fig-31d`):
 
 ```{figure} /Fig-sol/31b1.png
