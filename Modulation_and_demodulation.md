@@ -8,7 +8,7 @@ In many communication systems, but also in many measurement systems, a form of m
 - Pulse height- and pulse width modulation.
 - Phase modulation.
 
-A consequence of modulation with a generally much lower input frequency, is that signal is shifted towards a frequency range around the carrier frequency. This offers some great advantages.
+A consequence of modulation with a generally much higher carrier frequency, is that signal is shifted towards a frequency range around the carrier frequency. This offers some great advantages.
 - *Frequency Multiplexing:*\
 By choosing different carrier frequencies for different input signals (e.g. radio signals from different transmitters), these signals can simultaneously be transmitted or sent over a single cable.
 
