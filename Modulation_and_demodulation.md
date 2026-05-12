@@ -199,8 +199,8 @@ Using eqn. {eq}`eq:Mod02` the result can be expressed as:
 $$
 \begin{split}
 x_{0}(t)  & = \dfrac{x_{\rm s}x_{\rm d}x_{\rm i}}{2} [ \cos (\omega_{\rm i}t) \cos \phi  \\
-+ & \dfrac{1}{2} \left{ \cos \left( (2 \omega_{\rm d} + \omega_{\rm i} ) t + \phi \right) \\
-+ &  \cos { ( 2 \omega_{\rm d} - \omega_{\rm i} ) t + \phi \right) } ].
++ & \dfrac{1}{2} \{\cos \left( (2 \omega_{\rm d} + \omega_{\rm i} ) t + \phi \right) \\
++ &  \cos ( ( 2 \omega_{\rm d} - \omega_{\rm i} ) t + \phi ) \} ].
 \end{split}
 $$ (eq:Mod06)
 
