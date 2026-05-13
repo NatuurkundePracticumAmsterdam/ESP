@@ -390,7 +390,7 @@ name: fig:cs12
 Nyquist plot
 ```
 
-Each point on the half-circle is determined by a vector with length $| A |$ and angle $\phi = \arg(A)$ (see {numref}`tab1`).
+Each point on the half-circle is determined by a vector with length $| A |$ and angle $\phi = \arg(A)$ (see {numref}`tab3`).
 
 ````{admonition} Exercise 7.7
 :class: note
