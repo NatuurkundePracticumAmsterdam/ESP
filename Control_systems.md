@@ -475,8 +475,8 @@ name: fig:cs13
 Nyquist plot of a closed system
 ```
 
-In {numref}`fig:cs13`a the amplitude transfer is larger than 1 at a phase transfer of 180$^{\rm o}$: the signal is amplified through the feedback and the closed system becomes unstable. \
-In {numref}`fig:cs13`b the amplitude transfer is smaller than 1 at a phase transfer of 180$^{\rm o}$: the signal is attenuated through the feedback and the closed system is stable.
+In {numref}`fig:cs13`a the modulus of the amplitude transfer function is larger than 1 at a phase transfer of 180$^{\rm o}$: the signal is amplified through the feedback and the closed system becomes unstable. \
+In {numref}`fig:cs13`b the modulus of the amplitude transfer function is smaller than 1 at a phase transfer of 180$^{\rm o}$: the signal is attenuated through the feedback and the closed system is stable.
 
 ### PID controllers
 PID controllers can be in series or in parallel. Both options give more or less the same result in closed systems. In this course we will limit ourselves to PID controllers in parallel. The response function of the PID controller is given by:
