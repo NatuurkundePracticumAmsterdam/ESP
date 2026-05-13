@@ -104,7 +104,7 @@ name: fig:cs04
 Step response with an overshoot
 ```
 
-By tuning the values of $\lambda$, $\tau_{\rm i}$ and $\tau_{\rm d}$ of the PID the characteristics of the total system can be optimized (e.g. the damping) improving the step response. The exact response and optimal settings of $\lambda$, $\tau_{\rm i}$ and $\tau_{\rm d}$  of a PID is hard to predict (a.o. because in most cases the behavior of the process is not exactly known). In practice (e.g. at stabilizing the temperature in a cryostat) you can adjust the settings by trial-and-error. There are also methods to calculate the optimal PID setting, but that is beyond the scope of this course. \
+By tuning the values of $\lambda$, $\tau_{\rm i}$ and $\tau_{\rm d}$ of the PID the characteristics of the total system can be optimized (e.g. the damping) improving the step response. The exact response and optimal settings of $\lambda$, $\tau_{\rm i}$ and $\tau_{\rm d}$  of a PID is hard to predict (a.o. because in most cases the behavior of the process is not exactly known). In practice (e.g. at stabilizing the temperature in a cryostat) you can adjust the settings by trial-and-error. There are also methods to calculate the optimal PID setting, but that is beyond the scope of this course. 
 
 A good example of a control system is an OpAmp amplifier with feedback as shown in {numref}`fig:cs05`.
 
