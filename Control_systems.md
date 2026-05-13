@@ -520,7 +520,7 @@ name: fig-Lexercise
 
 ```
 
-In the lab exercise below you will investigate a number of characteristics of a closed PID control system through tuning procedure. 
+In the lab exercise below you will investigate a number of characteristics of a closed PID control system through a tuning procedure. 
 - Build a third order low-pass filter with $RC = 0.5 {\rm s}$. Take different values of $C$, such that the three filters do not influence each other. Connect the output signal of the filter to AI 0+, the input signal to AO 0 and use the GROUND connection for AI 0- and ground of this filter. This filter, together with the software programme “Measure Nyquist plot PID <span>system.vi</span>” makes a closed control system.
 - Measure the Nyquist plot of this closed control system using the programme “Measure Nyquist plot PID <span>system.vi</span>”. Set the PID parameters in the programme first at $K_{\rm R} = 2$, $T_{\rm i} = 0$ en $T_{\rm d} = 0$. (Note: because of the $RC$-value of 0.5 s, the Nyquist plot measurement takes more time. Once started the program has to be stopped manualy!)
 - Determine from the saved Nyquist plot data the natural frequency of the closed system. (The phase shift of the output signal is then 180$^{\rm o}$ with respect to the input signal.)
