@@ -390,7 +390,7 @@ name: fig:cs12
 Nyquist plot
 ```
 
-Each point on the half-circle is determined by a vector with length $| A |$ and angle $\phi = \arg(A)$ (see {numref}`tab3`).
+Each point on the half-circle is determined by a vector with length $| A |$ and angle $\phi = \arg(A)$ (see Table 3).
 
 ````{admonition} Exercise 7.7
 :class: note
@@ -454,7 +454,7 @@ name: fig:87-2
 Sketch of Nyquist plot for a high-pass filter
 ```
 
-Using the *Show Nyquist Plot.vi* we can simulate the effect of several filter. For a first order Butterworth high pass filter the result shown in {numref}`fig:87-3` which matches the sketch, is obtained.
+Using the *Show Nyquist Plot.vi* we can simulate the effect of several filters. For a first order Butterworth high pass filter the result shown in {numref}`fig:87-3` which matches the sketch, is obtained.
 
 ```{figure} /Fig-sol/87-3.png
 ---
